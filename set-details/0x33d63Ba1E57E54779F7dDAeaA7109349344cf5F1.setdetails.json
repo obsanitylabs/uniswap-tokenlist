@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Web3 Data Economy Index",
+    "setSymbol": "DATA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg",
+    "setDescription": "Web3 enables a new data economy. The Web3 data economy is an ecosystem of data-centric protocols and applications disrupting the data monopolies built in Big Tech. DATA provides exposure to the growth of the Web3 data economy in a single token.\n\nRead the methodology: https://www.d4.xyz/data-token\n",
+    "managerName": "D4 DATA",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/d4_data.jpg",
+    "managerDescription": "Through data and research, D4 DATA reveals the depths of opportunities awaiting traditional finance, setting the stage for adventures that come with Web3.",
+    "website": "https://www.d4.xyz/",
+    "managerTwitter": "DATA_Index"
+  },
+  "version": 2
+}
